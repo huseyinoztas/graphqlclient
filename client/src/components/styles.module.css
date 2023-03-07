@@ -1,0 +1,29 @@
+.container {
+    margin-top: 3px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .headerMenu {
+    background: none;
+    border: none;
+  }
+  
+  .menuItem {
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+  }
+
+  .loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .buttons {
+    text-align: right;
+  }
+  
